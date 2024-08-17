@@ -2,12 +2,12 @@
 This repository provides the EBStore dataset of EMS.
 > ***EMS***: EMS: 3D Eyebrow Modeling from Single-view Images
 >
-> [Chenghong Li](https://zhongjinluo.github.io/)\*, Leyang Jin\*, [Yujian Zheng](https://paulyzheng.github.io/about/),  [Yizhou Yu](https://i.cs.hku.hk/~yzyu/)<sup>#</sup>
+> [Chenghong Li](https://kevinlee09.github.io)\*, Leyang Jin\*, [Yujian Zheng](https://paulyzheng.github.io/about/),  [Yizhou Yu](https://i.cs.hku.hk/~yzyu/)<sup>#</sup>
  and [Xiaoguang Han](https://gaplab.cuhk.edu.cn/)<sup>#</sup>
 
 
 
-### [Project Page](https://kevinlee09.github.io/research/EMS/) | [Paper (Arxiv)](https://arxiv.org/pdf/2309.12787)
+### [Project Page](https://kevinlee09.github.io/research/EMS/) | [Paper (Arxiv)](https://arxiv.org/abs/2309.12787)
 
 <div style="width: 100%; text-align: center; margin:auto;">
     <img style="width:100%" src="figure/EMS_dataset.gif"><br>
