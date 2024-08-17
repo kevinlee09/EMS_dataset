@@ -55,7 +55,7 @@ python hair2npy.py --input ./EBStore_blender_data --output ./strand_npy_rekey
 
 ## Convert npy to obj format
 ```
-python npy2obj.py --output ./strand_npy_rekey --output ./strand_obj_rekey
+python npy2obj.py --input ./strand_npy_rekey --output ./strand_obj_rekey
 ```
 
 
