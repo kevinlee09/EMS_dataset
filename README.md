@@ -29,9 +29,9 @@ To download EBStore data, please visit [OneDrive](https://cuhko365.sharepoint.co
   │   │   ├── 1_uv.jpg
   │   │   ├── 1.blend
   │   │   ├── 1.obj
-  |   |   ├── h.mtl
-  |   |   ├── h.obj
-  |   |   ├── m.mtl
+  │   │   ├── h.mtl
+  │   │   ├── h.obj
+  │   │   ├── m.mtl
   │   │   └── m.obj
   │   ├── 2
   │   │   ├── 2_uv.jpg
