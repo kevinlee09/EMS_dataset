@@ -64,6 +64,7 @@ The data and the code are released under the Attribution-NonCommercial 4.0 Inter
 
 Copyright (c) 2024
 
+For commercial use and commercial license, please contact: hanxiaoguang@cuhk.edu.cn. 
 
 ## Citation
 <!-- --- -->
